@@ -201,4 +201,8 @@
   .selected-bullet {
     width: 100%;
   }
+.bullet-label
+{
+margin-left: 30px;
+}
 }

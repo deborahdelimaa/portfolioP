@@ -72,18 +72,18 @@ export default function ContactMe(props) {
             <Typical loop={Infinity} steps={["Get In Touch 📧", 1000]} />
           </h2>{" "}
           <a href="https://m.facebook.com/deborahdelima939">
-                <i className="fa fa-facebook-square"/>
-              </a>
+            <i className="fa fa-facebook-square" />
+          </a>
+          <a href="https://www.instagram.com/deborahdelimaa/?igshid=OGQ5ZDc2ODk2ZA%3D%3D%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D">
+            <i className="fa fa-instagram" />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/deborahdelima
 
-              <a href="https://www.instagram.com/deborahdelimaa/?igshid=OGQ5ZDc2ODk2ZA%3D%3D%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D">
-                <i className="fa fa-instagram"/>
-              </a>
-
-              <a href="www.linkedin.com/in/deborahdelima
-
-">
-                <i className="fa fa-linkedin"/>
-              </a>
+"
+          >
+            <i className="fa fa-linkedin" />
+          </a>
         </div>
         <div className="back-form">
           <div className="img-back">

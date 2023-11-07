@@ -54,27 +54,22 @@ const Resume = (props) => {
   const projectsDetails = [
     {
       title: "Personal Portfolio Website",
-      description:
-        " A personal portfolio website to showcase all my details and projects at one place.",
+   
+       
       subheading: "React.js, bootstrap.",
     },
     {
       title: "Fly, ducks...Fly!",
-      description:
-        "A Canvas 2D Game that consists in a target shooting game with some bonus features, inspired in Duck Hunt by nintendo®.",
       subheading: "HTML, CSS and JavaScrpit ",
     },
     {
       title: "reMeals",
-      description:
-        "It is a platform that helps you plan your weekly meals, see recipes and create new ones. Every user has its own profile and is able to modify it and also save its planner.",
+      
       subheading:
         "Handlebars, Bootstrap, pure CSS, JavaScript, MongoDB, Cloudinary, and Cyclic.",
     },
     {
       title: "Buyable",
-      description:
-        "Buyable is a shopping platform that allow users to buy and sell products, have a profile, have a wishlist, a shopping cart that allows to see the bought products and also leave reviews (comments and ratings).",
       subheading:
         " React.js, React-Bootstrap, Cyclic, Netlify, Cloudinary and MongoDB Atlas.",
     },
